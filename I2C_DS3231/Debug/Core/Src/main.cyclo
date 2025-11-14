@@ -1,0 +1,10 @@
+../Core/Src/main.c:81:9:Decimal2BCD	1
+../Core/Src/main.c:86:9:BCD2Decimal	1
+../Core/Src/main.c:92:6:RTC_WRITE_TIME	1
+../Core/Src/main.c:106:7:RTC_READ_TEMP	3
+../Core/Src/main.c:133:6:RTC_READ_TIME	1
+../Core/Src/main.c:154:5:main	2
+../Core/Src/main.c:216:6:SystemClock_Config	3
+../Core/Src/main.c:255:13:MX_I2C1_Init	2
+../Core/Src/main.c:289:13:MX_GPIO_Init	1
+../Core/Src/main.c:313:6:Error_Handler	1
