@@ -1,0 +1,8 @@
+../Core/Src/main.c:62:6:map	24	static
+../Core/Src/main.c:66:6:SERVO_WRITE	32	static
+../Core/Src/main.c:106:5:main	16	static
+../Core/Src/main.c:162:6:SystemClock_Config	88	static
+../Core/Src/main.c:208:13:MX_ADC1_Init	24	static
+../Core/Src/main.c:255:13:MX_TIM2_Init	64	static
+../Core/Src/main.c:314:13:MX_GPIO_Init	16	static
+../Core/Src/main.c:331:6:Error_Handler	4	static,ignoring_inline_asm
