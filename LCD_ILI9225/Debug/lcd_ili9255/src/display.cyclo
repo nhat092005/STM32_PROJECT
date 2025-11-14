@@ -1,0 +1,13 @@
+../lcd_ili9255/src/display.c:78:13:draw_icon_gear	1
+../lcd_ili9255/src/display.c:95:13:draw_icon_wifi	1
+../lcd_ili9255/src/display.c:107:13:draw_icon_clock	1
+../lcd_ili9255/src/display.c:118:13:draw_icon_refresh	1
+../lcd_ili9255/src/display.c:129:13:draw_icon_thermometer	1
+../lcd_ili9255/src/display.c:138:13:draw_icon_water	1
+../lcd_ili9255/src/display.c:151:13:draw_status_dot	2
+../lcd_ili9255/src/display.c:162:13:clear_area	1
+../lcd_ili9255/src/display.c:170:13:format_time	1
+../lcd_ili9255/src/display.c:182:13:format_date	1
+../lcd_ili9255/src/display.c:195:6:display_init	1
+../lcd_ili9255/src/display.c:235:6:display_update	16
+../lcd_ili9255/src/display.c:358:6:display_clear	1
